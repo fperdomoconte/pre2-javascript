@@ -1,4 +1,4 @@
-//Menu de bienvenida al simulador
+//Menu de bienvenida al simuladorr
 //Pendiente sanitizacion de datos de entrada
 let menu = prompt("BIENVENIDO! \nDesea calcular el costo de una casa? Ingrese SI / NO")
 
